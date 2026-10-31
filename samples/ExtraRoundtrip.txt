@@ -1,0 +1,2 @@
+Second live test: add one file while updating an existing file in the same commit.
+Tiếng Việt: cập nhật file cũ và thêm file mới thành công.

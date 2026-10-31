@@ -1,7 +1,8 @@
 {
   "purpose": "GitHub Manager upload/download verification",
   "repository": "huutrungtran/GithubVisualStudio",
-  "testCase": "multi-file-single-commit",
+  "testCase": "mixed-add-and-update-single-commit",
   "containsPrivateData": false,
+  "revision": 2,
   "expected": "content-roundtrip-pass"
 }
