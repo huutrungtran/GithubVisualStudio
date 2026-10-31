@@ -1,0 +1,5 @@
+GitHub Manager sandbox round-trip test
+
+This synthetic file verifies UTF-8 text preservation.
+Vietnamese: Xin chào GitHub — kiểm thử đồng bộ thành công.
+Symbols: <> & " ' / \ | % #
